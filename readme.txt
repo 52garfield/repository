@@ -4,3 +4,5 @@ Git has a mutable index called stage.
 Git tracks changes of files.
 第五行
 第六行
+第七行
+第八行
